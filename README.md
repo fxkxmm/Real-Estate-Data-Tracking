@@ -7,4 +7,5 @@ This project's objective is to scrape real estate data from Zillow to extract fo
 ![image](https://user-images.githubusercontent.com/23301349/151647022-1cda7490-c480-402c-9ecc-9e82655c00a1.png)
 
 
-Contact xf2108@gmail.com for more about this study!
+Please note that the repo is no longer maintained here. 
+Contact author to learn more about our projects.
